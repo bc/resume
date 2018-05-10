@@ -1,0 +1,82 @@
+Abstract #36858
+Using Artificial Intelligence to Predict Substance Use Change in Formerly Homeless Adults Moving into Permanent Supportive Housing
+Wichada La Motte-Kerr, MPH1, Shariq Iqbal2, Kamonphop Srisopha2, Reem Alfayez2, Brian Cohn2, Eric Rice, PhD3 and Suzanne Wenzel, PhD4, (1)Doctoral Student, University of Southern California, (2)Doctoral Student, University of Southern California, CA, (3)Associate Professor, University of Southern California, Los Angeles, CA, (4)Professor, University of Southern California, Los Angeles, CA
+Abstract:
+
+Background: Substance use is a prominent health issue that affects many persons experiencing homelessness.  A previous study demonstrated consistent self-reported substance use over time among formerly homeless persons in permanent supportive housing (PSH), but the change in the composition of social networks over time was significantly associated with formerly homeless persons’ substance use. However, since there was no significant change in substance use over time at the group level over time, we utilized an artificial intelligence (AI) technique called Decision Trees to identify which variables were predictive of substance use change at the individual level. 
+Methods: A sample of formerly homeless individuals (n=421) entering PSH in the Los Angeles area completed interviews regarding self-reported physical and mental health, and substance use. Interviews were conducted prior to or within 5 days of moving in, and at 3-, 6-, and 12-months after move-in; 91% of respondents were retained in the study at 12 months. Decision Trees, an AI machine learning method preferred for its interpretability, were utilized to predict for each respondent, whether substance use would decrease, stay the same, or increase for four different types of substances (tobacco, alcohol, cannabis, and hard drugs) after one year of transitioning into permanent supportive housing.
+
+Results: Decision Tree models were conducted and compared against basic models that would predict the most common outcome for every participant. The Decision Tree models, utilizing the baseline questionnaire data upon entry to PSH, consistently predicted outcomes with accuracy 5-10% better for tobacco and hard drug change compared to the basic model. Predictions for tobacco and hard drug usage, given data for 3-month and 6-month changes did not improve significantly upon their performance given baseline data, indicating that trends in tobacco and hard drug usage are nonlinear over the study period. We found that predictions for changes in alcohol and cannabis usage were no better than the basic model, given baseline data, but predictive performance increased to the 5-10% range, given data for changes after 3 months and 6 months in housing. The models with robust predictive trends in the data are limited to 3 or less variables. For example, the Decision Tree predicted for participants who did not use sedative, did not feel “treated with less respect than others”, and had never used tobacco were expected to have decreased their hard drug use over the year in PSH.  
+
+Conclusions: The findings suggest that substance use trajectories are complicated to predict and support tailored interventions to meet individual’s needs of persons experiencing homeless and using substances. The study found different predictors from each time point and these varied by substance type. Further research is needed to further explore the mechanism of change specific to type of substance use and type of intervention e. prevention, risk reduction, etc.). These considerations are especially important when planning housing and substance use treatment for this population.
+
+Title:
+Using Artificial Intelligence to Predict Substance Use Change in Formerly Homeless Adults Moving into Permanent Supportive Housing
+Submitter's email:
+hantanac@usc.edu
+Presentation Format:
+Poster
+Research Method/Type:
+ Advanced Statistical Analysis
+Topic Area:
+Substance Misuse and Addictive Behaviors (SM&AB): Substances: Alcohol, Tobacco, Prescription and Other Drugs
+First author
+Presenting Author
+Wichada La Motte-Kerr, MPH
+Doctoral Student
+University of Southern California
+
+
+Email: hantanac@usc.edu
+Career Level:
+Student-Doctoral
+Second author
+Shariq Iqbal
+Doctoral Student
+University of Southern California
+CA 90089
+
+Email: shariqiq@usc.edu
+Third author
+Kamonphop Srisopha
+Doctoral Student
+University of Southern California
+CA 90089
+
+Email: srisopha@usc.edu
+Fourth author
+Reem Alfayez
+Doctoral Student
+University of Southern California
+CA 90089
+
+Email: alfayez@usc.edu
+Fifth author
+Brian Cohn
+Doctoral Student
+University of Southern California
+CA 90089
+
+Email: brian.cohn@usc.edu
+Sixth author
+Eric Rice, PhD
+Associate Professor
+University of Southern California
+1149 South Hill Street
+Los Angeles, CA 90015
+Phone Number: 213-821-4292 
+Email: ericr@usc.edu
+Career Level:
+Mid-Career
+Seventh author
+Suzanne Wenzel, PhD
+Professor
+Social Work
+University of Southern California
+1150 S. Hill Street
+Suite 360
+Los Angeles, CA 90015
+Phone Number: 213-740-0819 
+Publishable Email: swenzel@usc.edu
+Career Level:
+Senior Career
