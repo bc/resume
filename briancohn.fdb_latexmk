@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1553465083 "briancohn.tex" "briancohn.pdf" "briancohn" 1553466556
+["pdflatex"] 1553805113 "briancohn.tex" "briancohn.pdf" "briancohn" 1553805114
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/baskervald/supp-ybv.enc" 1480098666 3433 06edd2f5d570b2fb837f6ab1f32695f7 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -71,11 +71,11 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "briancohn.aux" 1553465083 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "briancohn.out" 1553465083 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "briancohn.tex" 1553466554 28652 62e8a7e9fff27a5832adae040ba0cd3e ""
+  "briancohn.aux" 1553805114 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "briancohn.out" 1553805113 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "briancohn.tex" 1553805111 29116 5ee5c368eceb06381c6f282c85e6d510 ""
   (generated)
-  "briancohn.aux"
-  "briancohn.out"
-  "briancohn.pdf"
   "briancohn.log"
+  "briancohn.aux"
+  "briancohn.pdf"
+  "briancohn.out"
